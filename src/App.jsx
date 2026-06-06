@@ -1784,9 +1784,9 @@ const App = () => {
 
           <div className="cont">
             <div className="img">
-              <img src="/img/12.png" alt="" />
-              <img src="/img/13.png" alt="" />
-              <img src="/img/14.png" alt="" />
+              <img src="img/12.png" alt="" />
+              <img src="img/13.png" alt="" />
+              <img src="img/14.png" alt="" />
             </div>
             <div className="stars">
               <li className="lii">
