@@ -1732,7 +1732,7 @@ const App = () => {
 
       <div className="container">
         <div className="hero">
-          <img src="/img/11.png" alt="Azure Resort" />
+          <img src="img/11.png" alt="Azure Resort" />
           <nav>
             <li>Home</li>
             <li>Villas</li>
@@ -2041,7 +2041,7 @@ const App = () => {
           </h1>
           <div className="video-card">
             <video id="resortVideo" ref={videoRef} autoPlay muted loop>
-              <source src="/img/1.mp4" type="video/mp4" />
+              <source src="img/1.mp4" type="video/mp4" />
             </video>
             <div className="video-overlay">
               <div className="video-text">
